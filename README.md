@@ -1,7 +1,7 @@
 
-  # Untitled
+  # Meme Radio
 
-  This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/HHS4LlvLD7qiacI2Oo3ueW/Untitled.
+  This is a code bundle for Meme Radio. The original project is available at https://www.figma.com/design/HHS4LlvLD7qiacI2Oo3ueW/Meme-Radio.
 
   ## Running the code
 
